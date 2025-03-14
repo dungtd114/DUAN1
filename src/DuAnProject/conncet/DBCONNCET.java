@@ -16,7 +16,7 @@ public class DBCONNCET {
 
     public static final String HOSTNAME = "localhost";
     public static final String PORT = "1433";
-    public static final String DBNAME = "DuAn1_final";
+    public static final String DBNAME = "DuAn1_PRO1041";
     public static final String USERNAME = "sa";
     public static final String PASSWORD = "123456";
 
